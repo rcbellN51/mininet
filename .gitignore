@@ -1,0 +1,15 @@
+# Compiled objects and libraries
+*.o
+*.a
+
+# Executables
+/mininet
+/mininet-ncurses
+
+# Development experiments
+/tests/
+
+# Editor files
+*~
+*.swp
+*.swo
